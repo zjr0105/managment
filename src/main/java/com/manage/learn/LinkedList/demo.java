@@ -1,4 +1,4 @@
-package com.manage.controller;
+package com.manage.learn.LinkedList;
 
 
 /**

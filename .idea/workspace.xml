@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="745ecc68-dd54-4d29-bfe6-f2187eea6092" name="Default" comment="" />
+    <list default="true" id="745ecc68-dd54-4d29-bfe6-f2187eea6092" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/manage/learn/LinkedList/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/manage/learn/LinkedList/demo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,10 +31,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="stack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/controller/stack/stack.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/learn/stack/stack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/learn/LinkedList/demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResultUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/common/ResultUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,8 +90,8 @@
       <file leaf-file-name="BlockL.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/common/demo/BlockL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="220">
+              <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -81,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StackCalcuDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/controller/stack/StackCalcuDemo.java">
+      <file leaf-file-name="StackCalcuDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/learn/stack/StackCalcuDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1360">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="280">
+              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,10 +142,12 @@
       <find>jdbc</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/manage/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/manage/common/ResponseResult.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/manage/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/html/userLogin.html" />
@@ -172,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/manage/common/demo/BlockO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/manage/common/demo/BlockL.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/manage/controller/stack/StackCalcuDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/manage/learn/LinkedList/demo.java" />
       </list>
     </option>
   </component>
@@ -219,12 +246,13 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="false" />
@@ -292,8 +320,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="manage" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="management" type="b2602c69:ProjectViewProjectNode" />
@@ -303,8 +330,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="manage" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="enums" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="management" type="b2602c69:ProjectViewProjectNode" />
@@ -314,17 +341,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="manage" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="management" type="b2602c69:ProjectViewProjectNode" />
-              <item name="management" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="manage" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
               <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -337,10 +354,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GO_FMT" value="false" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/working/案列/management/src/main/resources/templates/html/register.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -421,12 +440,12 @@
       </extension>
     </configuration>
     <configuration name="StackCalcuDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.manage.controller.stack.StackCalcuDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.manage.learn.stack.StackCalcuDemo" />
       <module name="management" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.manage.controller.stack.*" />
+          <option name="PATTERN" value="com.manage.learn.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,12 +454,12 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.manage.controller.stack.stack" />
+      <option name="MAIN_CLASS_NAME" value="com.manage.learn.stack.stack" />
       <module name="management" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.manage.controller.stack.*" />
+          <option name="PATTERN" value="com.manage.learn.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -565,8 +584,16 @@
       <workItem from="1578987318183" duration="858000" />
       <workItem from="1585324079270" duration="11767000" />
       <workItem from="1586223624076" duration="5464000" />
-      <workItem from="1586236379860" duration="45230000" />
+      <workItem from="1586236379860" duration="47017000" />
     </task>
+    <task id="LOCAL-00001" summary="#">
+      <created>1586408596943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586408596944</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -584,11 +611,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180409000" />
+    <option name="totallyTimeSpent" value="182196000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="17" side_tool="true" />
@@ -609,12 +635,12 @@
       <window_info id="Image Layers" order="4" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2577465" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2577465" />
       <window_info anchor="right" id="Mybatis datasource" order="9" show_stripe_button="false" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286517" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23895583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23895583" />
       <window_info anchor="right" id="Bean Validation" order="8" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -675,6 +701,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#" />
+    <option name="LAST_COMMIT_MESSAGE" value="#" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -743,13 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="97" selection-start-line="2" selection-start-column="97" selection-end-line="2" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/common/ResultUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -921,23 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/controller/demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
-          <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/controller/InitLoginContorller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/software/jdk1.8.0_171/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -987,13 +993,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/common/demo/BlockL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/common/demo/block.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1001,20 +1000,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/controller/stack/stack.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/common/demo/BlockL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/controller/InitLoginContorller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/learn/stack/stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/controller/stack/StackCalcuDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/common/ResultUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1360">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="38">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/learn/stack/StackCalcuDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manage/learn/LinkedList/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
