@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.manage.mapper.UserLoginMapper" >
+  <resultMap id="BaseResultMap" type="com.manage.entity.UserLogin" >
+    <id column="id" property="id" jdbcType="BIGINT" />
+    <result column="username" property="username" jdbcType="VARCHAR" />
+    <result column="password" property="password" jdbcType="VARCHAR" />
+    <result column="created_by" property="createdBy" jdbcType="INTEGER" />
+    <result column="created_time" property="createdTime" jdbcType="TIMESTAMP" />
+    <result column="updated_by" property="updatedBy" jdbcType="INTEGER" />
+    <result column="updated_time" property="updatedTime" jdbcType="TIMESTAMP" />
+    <result column="is_deleted" property="isDeleted" jdbcType="TINYINT" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    id, username, password, created_by, created_time, updated_by, updated_time, is_deleted
+  </sql>
+
+  <select id="userLogin" parameterType="com.manage.entity.UserLogin" resultType="BaseResultMap">
+    select id,username,password from user_login where username = #{username} and password = #{password}
+  </select>
+
+  <!--新用户注册-->
+  <insert id="adduser" parameterType="com.manage.entity.UserLogin" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO user_login (username,password,created_time) VALUES (#{username},#{password},#{createdTime})
+  </insert>
+
+</mapper>
