@@ -1,4 +1,4 @@
-package com.manage.controller.stack;
+package com.manage.learn.stack;
 
 import java.util.Stack;
 
