@@ -1,28 +1,0 @@
-
-Usquid:S1135"2Complete the task associated to this TODO comment.(ö¸œ…ÿÿÿÿÿ8ª«ßå•.
-Msquid:S00108,")Either remove or fill this block of code.(“ß¬üÿÿÿÿ8¤±äå•.
-Psquid:S1135"2Complete the task associated to this TODO comment.(À¯åõ8ª«ßå•.
-‹ squid:ForLoopCounterChangedCheck0"XRefactor the code in order to not assign to this loop counter from within the loop body.(©õ¢Ô8ëŸòå•.
-9squid:S3626R"Remove this redundant jump.(ÉŠ©ƒ8 œ‡ç•.
-Psquid:S1135"2Complete the task associated to this TODO comment.(Š¢ã¯8ª«ßå•.
-Psquid:S1135"2Complete the task associated to this TODO comment.(ˆ›Üè8ª«ßå•.
-Psquid:S1135M"2Complete the task associated to this TODO comment.(—ãÂø8 œ‡ç•.
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Óİ“¿ÿÿÿÿÿ8‚Ğæ•.
-nsquid:S1149N"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾â–ä8 œ‡ç•.
-ssquid:S1149h"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(öÛ¡Ôøÿÿÿÿ8»ĞÔç•.
-Psquid:S1135"2Complete the task associated to this TODO comment.(ÓƒŒ¿8œùØç•.
-9squid:S3626C"Remove this redundant jump.(ÉŠ©ƒ8ÜÑæ•.
-ssquid:S1149%"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(µëå³üÿÿÿÿ8É‰İÉ•.
-W"squid:SwitchLastCaseIsDefaultChecki""Add a default case to this switch.(ÁÙê²8»ĞÔç•.
-{
-squid:S135("YReduce the total number of break and continue statements in this loop to use at most one.(äŒ‡Àùÿÿÿÿ8”¦æ•.
-usquid:S3776""RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ˆ åÉıÿÿÿÿ8ìÆşå•.
-Usquid:S1135"2Complete the task associated to this TODO comment.(¬Òøëÿÿÿÿÿ8ª«ßå•.
-asquid:S1155I">Use isEmpty() to check whether the collection is empty or not.(¬Á ÿÿÿÿÿ8è½Œæ•.
-Usquid:S1135$"2Complete the task associated to this TODO comment.(­îÊ úÿÿÿÿ8É‰İÉ•.
-Psquid:S1135"2Complete the task associated to this TODO comment.(óÕš8ª«ßå•.
-Psquid:S1135"2Complete the task associated to this TODO comment.(ôÃª8ª«ßå•.
-Psquid:S1135"2Complete the task associated to this TODO comment.(£¼§ê8ª«ßå•.
-Osquid:S1135)"2Complete the task associated to this TODO comment.(ÇÇß%8ÅÉæå•.
-Psquid:S1135"2Complete the task associated to this TODO comment.(ËáâŠ8ª«ßå•.
