@@ -1,4 +1,4 @@
-package com.manage.common.demo;
+package com.manage.demo;
 
 
 
